@@ -1,5 +1,0 @@
-module subtractor
-#(parameter N = 8)
-(
-	
-);
