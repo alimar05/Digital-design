@@ -1,0 +1,5 @@
+module comparator
+#(parameter N = 8)
+(
+	in
+);
